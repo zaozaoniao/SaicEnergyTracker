@@ -1,0 +1,11 @@
+*.suo
+*.user
+packages
+.vs
+.nuget
+*.cache
+internal-nlog.txt
+bin
+obj
+Properties
+appsettings.secrets.json

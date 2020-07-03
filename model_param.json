@@ -1,0 +1,63 @@
+{
+    "car_version": "_default",
+    "car_id": "_default",
+    "user_id": "_default",
+    "so_version": "v0.1",
+    "config_version": "_so_default",
+    "soc_params_2d": {
+        "saving_speed": 39.6232871,
+        "speed_power": 2.15497862,
+        "saving_temperature": 27.97935005,
+        "mileage_weight": 0.265568,
+        "speed_weight": 0.0000389814,
+        "temperature_weight": 0.00969222,
+        "out_ac_weight": 3.19205380e-03,
+        "in_ac_weight": 2.89869294e-03,
+        "time_weight": 0.0,
+        "section_weight": 0.0,
+        "up": 0.6633,
+        "lower": 0.22975
+    },
+    "ec_params_2d": {
+        "saving_speed": 39.337603,
+        "speed_power": 2.362602,
+        "saving_temperature": 29.93352658,
+        "mileage_weight": 0.083883,
+        "speed_weight": 0.00001502,
+        "temperature_weight": 0.00813373,
+        "out_ac_weight": 0.000927329,
+        "in_ac_weight": 0.000871034,
+        "time_weight": 0.0,
+        "section_weight": 0.0,
+        "up": 0.33,
+        "lower": 0.097
+    },
+    "soc_params_4d": {
+        "saving_speed": 40.6991847,
+        "speed_power": 1.66,
+        "saving_temperature": 34,
+        "mileage_weight": 0.168604,
+        "speed_weight": 0.000287582,
+        "temperature_weight": 0.00524247,
+        "out_ac_weight": 2.58990080e-03,
+        "in_ac_weight": 5.81289006e-03,
+        "time_weight": 0.0,
+        "section_weight": 0.0,
+        "up": 0.8093,
+        "lower": 0.11
+    },
+    "ec_params_4d": {
+        "saving_speed": ,
+        "speed_power": ,
+        "saving_temperature": ,
+        "mileage_weight": ,
+        "speed_weight": ,
+        "temperature_weight": ,
+        "out_ac_weight": ,
+        "in_ac_weight": ,
+        "time_weight": ,
+        "section_weight": ,
+        "up": 0.262,
+        "lower": 0.043273
+    }
+}

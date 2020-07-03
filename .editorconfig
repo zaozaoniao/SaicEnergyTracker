@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0068: 使用建议的 dispose 模式
+dotnet_diagnostic.IDE0068.severity = none
